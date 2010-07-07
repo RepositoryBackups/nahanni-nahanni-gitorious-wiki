@@ -1,4 +1,4 @@
-Thanks for checking out the KVM/Qemu inter-VM shared memory PCI device
+Thanks for checking out the KVM/Qemu inter-VM shared memory PCI device.  This is wiki is under constant development and may have gaps in some explanations.
 
 #Getting the Device Running#
 
